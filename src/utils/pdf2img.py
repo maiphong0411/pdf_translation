@@ -47,5 +47,5 @@ def convert_pdf_to_images(
     return output_paths
 
 if __name__ == "__main__":
-    path = "/home/phongmt1/phongmt1/project/pdf_translation/tmp/demo1.pdf"
+    path = "/home/phongmt1/phongmt1/project/pdf_translation/tmp/1st.pdf"
     convert_pdf_to_images(path)
